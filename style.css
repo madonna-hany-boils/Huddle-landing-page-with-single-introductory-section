@@ -6,7 +6,7 @@
 }
 body{
 background-color: hsl(257, 40%, 49%);
-background-image: url('/images/bg-desktop.svg');
+background-image: url('./images/bg-desktop.svg');
 background-size: cover;
 background-position: center center;
 background-repeat: no-repeat;
